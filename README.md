@@ -25,6 +25,8 @@ hotel-room-manager/
 └── README.md  
 
 ## MySQL Setup
+ 
+###Install MySQL and run the following queries 
 
 CREATE DATABASE hotel;
 
