@@ -63,5 +63,4 @@ POST /api/checkout — Checkout a room
 
 ## Author
 
-Created by Your Name  
-ME
+Created by ME
