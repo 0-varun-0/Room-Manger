@@ -47,7 +47,7 @@ SELECT n, NULL, FALSE FROM (
 ) AS temp;
 
 ## Installation
-
+Fork this project 
 git clone https://github.com/yourusername/hotel-room-manager.git  
 cd hotel-room-manager  
 npm install  
